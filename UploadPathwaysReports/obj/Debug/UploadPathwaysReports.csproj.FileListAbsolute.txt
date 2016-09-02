@@ -1,0 +1,35 @@
+D:\Team Projects\IOW\CareMonXCADEmergency\CareMonXCADEmergency V9\CareMonXCADEmergencyV9_x\VERSION_9_0\CareMonXCAD\UploadPathwaysReports\bin\Debug\BusinessRule.dll
+D:\Team Projects\IOW\CareMonXCADEmergency\CareMonXCADEmergency V9\CareMonXCADEmergencyV9_x\VERSION_9_0\CareMonXCAD\UploadPathwaysReports\bin\Debug\System.Net.Http.Formatting.dll
+D:\Team Projects\IOW\CareMonXCADEmergency\CareMonXCADEmergency V9\CareMonXCADEmergencyV9_x\VERSION_9_0\CareMonXCAD\UploadPathwaysReports\bin\Debug\Common.dll
+D:\Team Projects\IOW\CareMonXCADEmergency\CareMonXCADEmergency V9\CareMonXCADEmergencyV9_x\VERSION_9_0\CareMonXCAD\UploadPathwaysReports\bin\Debug\Newtonsoft.Json.dll
+D:\Team Projects\IOW\CareMonXCADEmergency\CareMonXCADEmergency V9\CareMonXCADEmergencyV9_x\VERSION_9_0\CareMonXCAD\UploadPathwaysReports\bin\Debug\Logger.dll
+D:\Team Projects\IOW\CareMonXCADEmergency\CareMonXCADEmergency V9\CareMonXCADEmergencyV9_x\VERSION_9_0\CareMonXCAD\UploadPathwaysReports\bin\Debug\RTCTypes.dll
+D:\Team Projects\IOW\CareMonXCADEmergency\CareMonXCADEmergency V9\CareMonXCADEmergencyV9_x\VERSION_9_0\CareMonXCAD\UploadPathwaysReports\bin\Debug\OfflineWorkManager.dll
+D:\Team Projects\IOW\CareMonXCADEmergency\CareMonXCADEmergency V9\CareMonXCADEmergencyV9_x\VERSION_9_0\CareMonXCAD\UploadPathwaysReports\bin\Debug\CAD RTC Client.dll
+D:\Team Projects\IOW\CareMonXCADEmergency\CareMonXCADEmergency V9\CareMonXCADEmergencyV9_x\VERSION_9_0\CareMonXCAD\UploadPathwaysReports\bin\Debug\PushMessenger.dll
+D:\Team Projects\IOW\CareMonXCADEmergency\CareMonXCADEmergency V9\CareMonXCADEmergencyV9_x\VERSION_9_0\CareMonXCAD\UploadPathwaysReports\bin\Debug\RTCClient.dll
+D:\Team Projects\IOW\CareMonXCADEmergency\CareMonXCADEmergency V9\CareMonXCADEmergencyV9_x\VERSION_9_0\CareMonXCAD\UploadPathwaysReports\bin\Debug\MultiLingual.dll
+D:\Team Projects\IOW\CareMonXCADEmergency\CareMonXCADEmergency V9\CareMonXCADEmergencyV9_x\VERSION_9_0\CareMonXCAD\UploadPathwaysReports\bin\Debug\RCOP.SystemFramework.dll
+D:\Team Projects\IOW\CareMonXCADEmergency\CareMonXCADEmergency V9\CareMonXCADEmergencyV9_x\VERSION_9_0\CareMonXCAD\UploadPathwaysReports\bin\Debug\RTCUtilities.dll
+D:\Team Projects\IOW\CareMonXCADEmergency\CareMonXCADEmergency V9\CareMonXCADEmergencyV9_x\VERSION_9_0\CareMonXCAD\UploadPathwaysReports\bin\Debug\CAD RTC Common.dll
+D:\Team Projects\IOW\CareMonXCADEmergency\CareMonXCADEmergency V9\CareMonXCADEmergencyV9_x\VERSION_9_0\CareMonXCAD\UploadPathwaysReports\bin\Debug\Messaging.Logger.dll
+D:\Team Projects\IOW\CareMonXCADEmergency\CareMonXCADEmergency V9\CareMonXCADEmergencyV9_x\VERSION_9_0\CareMonXCAD\UploadPathwaysReports\bin\Debug\Socket Communication Helper.dll
+D:\Team Projects\IOW\CareMonXCADEmergency\CareMonXCADEmergency V9\CareMonXCADEmergencyV9_x\VERSION_9_0\CareMonXCAD\UploadPathwaysReports\bin\Debug\NetXtremeTime.dll
+D:\Team Projects\IOW\CareMonXCADEmergency\CareMonXCADEmergency V9\CareMonXCADEmergencyV9_x\VERSION_9_0\CareMonXCAD\UploadPathwaysReports\bin\Debug\Logging.dll
+D:\Team Projects\IOW\CareMonXCADEmergency\CareMonXCADEmergency V9\CareMonXCADEmergencyV9_x\VERSION_9_0\CareMonXCAD\UploadPathwaysReports\bin\Debug\C1.C1Zip.dll
+D:\Team Projects\IOW\CareMonXCADEmergency\CareMonXCADEmergency V9\CareMonXCADEmergencyV9_x\VERSION_9_0\CareMonXCAD\UploadPathwaysReports\bin\Debug\log4net.dll
+D:\Team Projects\IOW\CareMonXCADEmergency\CareMonXCADEmergency V9\CareMonXCADEmergencyV9_x\VERSION_9_0\CareMonXCAD\UploadPathwaysReports\bin\Debug\BusinessRule.pdb
+D:\Team Projects\IOW\CareMonXCADEmergency\CareMonXCADEmergency V9\CareMonXCADEmergencyV9_x\VERSION_9_0\CareMonXCAD\UploadPathwaysReports\bin\Debug\Logger.pdb
+D:\Team Projects\IOW\CareMonXCADEmergency\CareMonXCADEmergency V9\CareMonXCADEmergencyV9_x\VERSION_9_0\CareMonXCAD\UploadPathwaysReports\bin\Debug\System.Net.Http.Formatting.xml
+D:\Team Projects\IOW\CareMonXCADEmergency\CareMonXCADEmergency V9\CareMonXCADEmergencyV9_x\VERSION_9_0\CareMonXCAD\UploadPathwaysReports\bin\Debug\OfflineWorkManager.pdb
+D:\Team Projects\IOW\CareMonXCADEmergency\CareMonXCADEmergency V9\CareMonXCADEmergencyV9_x\VERSION_9_0\CareMonXCAD\UploadPathwaysReports\bin\Debug\PushMessenger.pdb
+D:\Team Projects\IOW\CareMonXCADEmergency\CareMonXCADEmergency V9\CareMonXCADEmergencyV9_x\VERSION_9_0\CareMonXCAD\UploadPathwaysReports\bin\Debug\Common.pdb
+D:\Team Projects\IOW\CareMonXCADEmergency\CareMonXCADEmergency V9\CareMonXCADEmergencyV9_x\VERSION_9_0\CareMonXCAD\UploadPathwaysReports\bin\Debug\MultiLingual.pdb
+D:\Team Projects\IOW\CareMonXCADEmergency\CareMonXCADEmergency V9\CareMonXCADEmergencyV9_x\VERSION_9_0\CareMonXCAD\UploadPathwaysReports\obj\Debug\UploadPathwaysReports.csprojResolveAssemblyReference.cache
+D:\Team Projects\IOW\CareMonXCADEmergency\CareMonXCADEmergency V9\CareMonXCADEmergencyV9_x\VERSION_9_0\CareMonXCAD\UploadPathwaysReports\obj\Debug\UploadPathwaysReports.ProjectInstaller.resources
+D:\Team Projects\IOW\CareMonXCADEmergency\CareMonXCADEmergency V9\CareMonXCADEmergencyV9_x\VERSION_9_0\CareMonXCAD\UploadPathwaysReports\obj\Debug\UploadPathwaysReports.csproj.GenerateResource.Cache
+D:\Team Projects\IOW\CareMonXCADEmergency\CareMonXCADEmergency V9\CareMonXCADEmergencyV9_x\VERSION_9_0\CareMonXCAD\UploadPathwaysReports\obj\Debug\UploadPathwaysReports.exe
+D:\Team Projects\IOW\CareMonXCADEmergency\CareMonXCADEmergency V9\CareMonXCADEmergencyV9_x\VERSION_9_0\CareMonXCAD\UploadPathwaysReports\obj\Debug\UploadPathwaysReports.pdb
+D:\Team Projects\IOW\CareMonXCADEmergency\CareMonXCADEmergency V9\CareMonXCADEmergencyV9_x\VERSION_9_0\CareMonXCAD\UploadPathwaysReports\bin\Debug\UploadPathwaysReports.exe.config
+D:\Team Projects\IOW\CareMonXCADEmergency\CareMonXCADEmergency V9\CareMonXCADEmergencyV9_x\VERSION_9_0\CareMonXCAD\UploadPathwaysReports\bin\Debug\UploadPathwaysReports.exe
+D:\Team Projects\IOW\CareMonXCADEmergency\CareMonXCADEmergency V9\CareMonXCADEmergencyV9_x\VERSION_9_0\CareMonXCAD\UploadPathwaysReports\bin\Debug\UploadPathwaysReports.pdb
